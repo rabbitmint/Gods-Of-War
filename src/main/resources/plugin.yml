@@ -1,4 +1,7 @@
 name: LikeMint
 version: '1.0'
-main: com.rabbitmint.Main
+main: com.rabbitmint.MainPlugin
 api-version: '1.16'
+commands:
+  team:
+    usage: /<command> [args]

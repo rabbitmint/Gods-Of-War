@@ -1,0 +1,11 @@
+cores:
+  red:
+    world: world
+    x: 208
+    y: 72
+    z: 143
+  blue:
+    world: world
+    x: 208
+    y: 72
+    z: 147
